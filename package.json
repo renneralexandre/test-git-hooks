@@ -1,0 +1,15 @@
+{
+  "name": "test-git-hooks",
+  "version": "1.0.0",
+  "description": "Repo to test git hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renneralexandre",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4"
+  }
+}
